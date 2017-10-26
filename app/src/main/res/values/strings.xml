@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="buttonSm">Submit</string>
+    <string name="buttonSrc">Source code</string>
+    <string name="buttonX">Exit</string>
+
+
+    <string name="radioDark">Dark mode</string>
+    <string name="radioLight">Light mode</string>
+
+
+    <string name="buttonBack">Back</string>
+    <string name="buttonPush">Push Notification</string>
+    <string name="txtNew">Text new activity</string>
+
+
+    <string name="txtInfo">
+        <font color="#FF5767CF" size="22"><h1>LẬP TRÌNH THIẾT BỊ DI ĐỘNG</h1></font>\n
+        Nhóm: 28\n
+        Ngô Tấn Tước - 14130148\n
+        Phan Khả Khắc - 13130204\n
+        Nguyễn Văn Quyền -13130075
+
+
+    </string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="nlu">NLU</string>
+    <string name="stt">DEMO INTENT\n</string>
+    <string name="titlenoti">Notification demo</string>
+    <string name="contentnoti">Click to return application!</string>
+    <string name="enterms">Enter massege:</string>
+    <string name="buttongetstr">Get string</string>
+    <string name="dialog">Dialog</string>
+
+
+</resources>
